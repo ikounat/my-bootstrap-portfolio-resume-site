@@ -1,5 +1,5 @@
 
-<h2 style="text-align: center">Personal Portfolio Resume Site</h2>
+<h3 align="center"><strong>Personal Portfolio Resume Site</strong></h3>
 <p align="center">
     <br />
     My personal static Bootstrap portfolio and resume site
