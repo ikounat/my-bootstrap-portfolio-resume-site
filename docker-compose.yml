@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  nginx:
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    networks:
+      - my_portfolio_resume_site_network
+
+networks:
+  my_portfolio_resume_site_network:
+    name: my_portfolio_resume_site_network
+    external: true
