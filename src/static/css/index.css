@@ -30,8 +30,8 @@ body {
 
 /* HOME AREA */
 .area-main-title {
-  color: #212834;
-  border-bottom: #048BC2 solid 1px;
+  color: #1C2631;
+  border-bottom: #1C75B7 solid 1px;
 }
 
 #homepage-subtitle {
@@ -43,17 +43,17 @@ body {
 }
 
 #home-title {
-  color: #212834;
+  color: #1C2631;
 }
 
 #home-title-surname {
-  color: #048BC2;
+  color: #1C75B7;
 }
 
 .hm-social-icons {
   font-size: 40px;
   margin-right: 20px;
-  color: #048BC2;
+  color: #1C75B7;
 }
 /* Typewriter */
 .typewriter {
@@ -62,7 +62,7 @@ body {
 
 .typewriter p {
   overflow: hidden; 
-  border-right: .15em solid #048BC2;  
+  border-right: .15em solid #1C75B7;  
   white-space: nowrap; 
   margin: 0 auto;
   letter-spacing: .15em; 
@@ -89,7 +89,7 @@ body {
   }
 
   50% {
-    border-color: #048BC2;
+    border-color: #1C75B7;
   }
 }
 
@@ -111,7 +111,7 @@ body {
   }
 
   50% {
-    border-color: #048BC2;
+    border-color: #1C75B7;
   }
 }
 
@@ -125,23 +125,23 @@ body {
 .about-me-text-icon {
   font-size: 26px;
   padding: 5px;
-  color: #048BC2;
+  color: #1C75B7;
 }
 
 .alert-primary {
-  background-color: #048BC2;
-  color: #212834;
+  background-color: #1C75B7;
+  color: #1C2631;
   border: #159fd7;
   font-weight: bold;
 }
 
 #about-me-info-list li {
-  color: #048BC2;
+  color: #1C75B7;
 }
 
 /* EDUCATION AREA */
 .education-timeline-title {
-  color: #048BC2;
+  color: #1C75B7;
 }
 
 .timeline {
@@ -188,8 +188,8 @@ body {
 .timeline-with-icons .timeline-icon {
   position: absolute;
   left: -48px;
-  background-color: #048BC2;
-  color: #212834;
+  background-color: #1C75B7;
+  color: #1C2631;
   border-radius: 50%;
   height: 31px;
   width: 31px;
@@ -202,7 +202,7 @@ body {
 .skills-area-list-icon {
   margin-right: 10px;
   font-size: 16px;
-  color: #048BC2;
+  color: #1C75B7;
 }
 
 .skill-areas-icons {
@@ -255,17 +255,17 @@ ul.timeline-3>li:before {
   width: 1200px;
 }
 .seminars-link{
-  color: #048BC2;
+  color: #1C75B7;
 }
 
 .card-header {
-  color: #048bc2;
+  color: #1C75B7;
 }
 
 /* PUBLICATION AREA */
 #publications-read-more-btn {
-  background-color: #048BC2;
-  border-color: #048BC2;
+  background-color: #1C75B7;
+  border-color: #1C75B7;
 }
 
 #publications-read-more-btn:hover {
@@ -277,13 +277,13 @@ ul.timeline-3>li:before {
 #main-sidenav {
   text-align: center;
   font-size: 16px;
-  background-color: #048BC2;
+  background-color: #1C75B7;
 }
 
 #home-navbar-brand {
   color: #fff;
   font-weight: lighter;
-  background-color: #212834;
+  background-color: #1C2631;
   letter-spacing: 1.5px;
   margin-bottom: 30px;
 }
@@ -301,7 +301,7 @@ ul.timeline-3>li:before {
 }
 
 .main-sidenav-item .active {
-  color: #212834 !important;
+  color: #1C2631 !important;
 }
 
 .main-sidenav-item {
@@ -325,11 +325,11 @@ ul.timeline-3>li:before {
 
 #navbar-header {
   display: none;
-  background-color: #048BC2;
+  background-color: #1C75B7;
 }
 
 #navbar-header .navbar-brand {
-  background-color: #048BC2;
+  background-color: #1C75B7;
   box-shadow: none;
 }
 
