@@ -5,6 +5,9 @@ services:
     build:
       context: ./src
       dockerfile: Dockerfile
+    volumes:
+      - ./src/index.html:/usr/share/nginx/html/index.html
+      - ./src/static:/usr/share/nginx/html/static
     ports:
       - "80:80"
     networks:
@@ -13,4 +16,3 @@ services:
 networks:
   my_portfolio_resume_site_network:
     name: my_portfolio_resume_site_network
-    external: true
